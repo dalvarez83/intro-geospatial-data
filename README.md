@@ -1,4 +1,4 @@
-#Intro to Geospatial Raster and Vector Data with Python
+## **Intro to Geospatial Raster and Vector Data with Python**
 This tutorial covers core ideas and skills working with geospatial data. 
 
 The data used in this lesson includes optical satellite images from the Copernicus Sentinel-2 mission and public geographical datasets from the dedicated distribution platform of the Dutch government. These are real-world data sets that entail sufficient complexity to teach many aspects of data analysis and management. 
