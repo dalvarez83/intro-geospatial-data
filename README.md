@@ -9,10 +9,12 @@ This follows the open source instructions through the [Carpentries Geospatial co
 First, `cd` into your working directory.
 
 Create a new directory called `geospatial-python`.
-`mkdir geospatial-python`
 
-Within `geospatial-python`, create a directory called data
-`mkdir data`
+``mkdir geospatial-python``
+
+Within `geospatial-python`, create a directory called `data`
+
+``mkdir data``
 
 Download the files in the `data` folder. 
 
@@ -45,7 +47,8 @@ IMPORTANT: If you close the terminal, you will need to reactivate this environme
 
 ## Alternative environment setup method
 
-**Environment Install using `environment.yaml`***
+**Environment Install using `environment.yaml`**
+
 Run the following commands in Bash or Terminal.
 
 Change directory into your appropriate level directory.
