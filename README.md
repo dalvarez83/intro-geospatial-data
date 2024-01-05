@@ -30,6 +30,7 @@ Check which version of conda is installed.
 ``conda --version``
 
 Then install `mamba`.
+
 ``conda install -c conda-forge mamba``
 
 Create Python environment
